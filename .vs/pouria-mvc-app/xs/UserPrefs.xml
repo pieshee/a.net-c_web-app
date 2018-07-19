@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{11028796-A322-4888-817D-9CB347D2D4E3}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PLibrary/Class1.cs">
+    <Files>
+      <File FileName="PLibrary/Class1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PLibrary FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.pouria-mvc-app PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
